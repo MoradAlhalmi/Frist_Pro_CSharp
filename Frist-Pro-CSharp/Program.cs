@@ -10,7 +10,7 @@ namespace Frist_Pro_CSharp
     {
         static void Main(string[] args)
         {
-            //my frist program
+            //my frist program in CSharp
             Console.WriteLine("hello word");
             Console.ReadKey();
         }
